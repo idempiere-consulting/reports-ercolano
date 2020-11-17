@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>Ercolano DB</name><driver>org.postgresql.Driver</driver><username>adempiere</username><password>adempiere</password><savePassword>true</savePassword><url>jdbc:postgresql://173.249.60.71:3054/idempiere</url><database/><serverAddress/></jdbcDataAdapter>

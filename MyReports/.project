@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MyReports</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.sf.jasperreports.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.sf.jasperreports.nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>c_invoice_lit.jasper</name>
+			<type>1</type>
+			<location>C:/Users/amministratore/Documents/Idempiere_Reports/04.CicloAttivo_QuotetoInvoice/41.Invoice/c_invoice_411_erc/c_invoice_lit.jasper</location>
+		</link>
+		<link>
+			<name>c_invoice_lit_1.jrxml</name>
+			<type>1</type>
+			<location>C:/Users/amministratore/Documents/Idempiere_Reports/04.CicloAttivo_QuotetoInvoice/41.Invoice/c_invoice_411_erc/c_invoice_lit.jrxml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
